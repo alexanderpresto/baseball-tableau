@@ -3,7 +3,7 @@
 </h1>
 
 ## Summary
-The [dataset](../blob/master/baseball_data.csv) consists of 1,157 records of professional baseball players. The variables include name,  handedness (left or right handed), weight in pounds, the batting average and number of home runs.
+The [dataset](../master/baseball_data.csv) consists of 1,157 records of professional baseball players. The variables include name,  handedness (left or right handed), weight in pounds, the batting average and number of home runs.
 
 The batting average refers to the rate at which the player hits the ball pitched at him which is a number between 0 and 1.
 
