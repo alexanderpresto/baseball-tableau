@@ -9,7 +9,7 @@ The batting average refers to the rate at which the player hits the ball pitched
 
 We will try to determine if the variable in the dataset is a reliable predictor of home runs.
 
-Click [here]("https://public.tableau.com/profile/alex.presto#!/vizhome/Baseball_final_0/BaseballvFinal?publish=yes") to go to the Tableau Story.
+Click [here](https://public.tableau.com/profile/alex.presto#!/vizhome/Baseball_final_0/BaseballvFinal?publish=yes) to go to the Tableau Story.
 
 ## Design
 The choice of colors are based on what is the most visible for the color blind. You will notice that the main color of choice is blue and where contrast is need, the other colors used are orange and red.
